@@ -7,6 +7,14 @@
 
 3、[选择适合你/团队的组件使用方式](docs/3-choice.md)
 
+团队规范
+
+1、[团队规范指北](docs/teamwork.md)
+
+编码规范
+
+1、[控制器](docs/controller.md)
+
 ## Thinkphp应用实例
 [1、thinkphp5.1中间件应用实例](demo/5.1/middleware/README.md)
 
