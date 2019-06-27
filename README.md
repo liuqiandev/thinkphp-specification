@@ -9,3 +9,8 @@
 
 ## Thinkphp应用实例
 [1、thinkphp5.1中间件应用实例](demo/5.1/middleware/README.md)
+
+### 参与和提需求
+您可以发起PR来将您的规范或者实例贡献出来，让更多的thinkphp开发者收益。
+
+同样，您可以通过[New Issues](https://github.com/liuqianDev/thinkphp-specification/issues/new)来提出您的需求或者需要我们完善的地方。
