@@ -22,6 +22,8 @@
 ## Thinkphp应用实例
 [1、thinkphp5.1中间件应用实例](demo/5.1/middleware/README.md)
 
+[2、Thinkphp逻辑分层项目实例](demo/5.1/mvc)
+
 ### 参与和提需求
 您可以发起PR来将您的规范或者实例贡献出来，让更多的thinkphp开发者收益。
 
