@@ -11,6 +11,10 @@
 
 1、[团队规范指北](docs/teamwork.md)
 
+架构规范
+
+1、[架构分层](docs/mvc_and_more.md)
+
 编码规范
 
 1、[控制器](docs/controller.md)
