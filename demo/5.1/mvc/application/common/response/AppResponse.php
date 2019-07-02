@@ -90,7 +90,7 @@ class AppResponse extends Request
     }
     protected function throw():Response
     {
-        throw new AppError($this->appCode,$this->msg,$this->responseData,$this->httpCode,$this->errorLevel);
+        throw new AppError($this->appCode,$this->msg,$this->selfData,$this->httpCode,$this->errorLevel);
     }
     protected function getDebugData()
     {
